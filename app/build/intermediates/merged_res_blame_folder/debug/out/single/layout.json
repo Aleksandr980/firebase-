@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.m20_firebase.app-mergeDebugResources-76:/layout/zero_fragment.xml",
+        "source": "com.example.m20_firebase.app-main-79:/layout/zero_fragment.xml"
+    },
+    {
+        "merged": "com.example.m20_firebase.app-mergeDebugResources-76:/layout/activity_main.xml",
+        "source": "com.example.m20_firebase.app-main-79:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.m20_firebase.app-mergeDebugResources-76:/layout/second_fragment.xml",
+        "source": "com.example.m20_firebase.app-main-79:/layout/second_fragment.xml"
+    },
+    {
+        "merged": "com.example.m20_firebase.app-mergeDebugResources-76:/layout/my_listphoto.xml",
+        "source": "com.example.m20_firebase.app-main-79:/layout/my_listphoto.xml"
+    },
+    {
+        "merged": "com.example.m20_firebase.app-mergeDebugResources-76:/layout/maps_fragment.xml",
+        "source": "com.example.m20_firebase.app-main-79:/layout/maps_fragment.xml"
+    },
+    {
+        "merged": "com.example.m20_firebase.app-mergeDebugResources-76:/layout/first_fragment.xml",
+        "source": "com.example.m20_firebase.app-main-79:/layout/first_fragment.xml"
+    }
+]

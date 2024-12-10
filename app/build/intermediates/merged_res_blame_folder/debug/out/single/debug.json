@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "com.example.m20_firebase.app-merged_res-77:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.m20_firebase.app-main-79:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.m20_firebase.app-merged_res-77:/xml_backup_rules.xml.flat",
+        "source": "com.example.m20_firebase.app-main-79:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.m20_firebase.app-merged_res-77:/layout_maps_fragment.xml.flat",
+        "source": "com.example.m20_firebase.app-main-79:/layout/maps_fragment.xml"
+    },
+    {
+        "merged": "com.example.m20_firebase.app-merged_res-77:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.m20_firebase.app-main-79:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.m20_firebase.app-merged_res-77:/layout_my_listphoto.xml.flat",
+        "source": "com.example.m20_firebase.app-main-79:/layout/my_listphoto.xml"
+    },
+    {
+        "merged": "com.example.m20_firebase.app-merged_res-77:/layout_zero_fragment.xml.flat",
+        "source": "com.example.m20_firebase.app-main-79:/layout/zero_fragment.xml"
+    },
+    {
+        "merged": "com.example.m20_firebase.app-merged_res-77:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.m20_firebase.app-main-79:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.m20_firebase.app-merged_res-77:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.m20_firebase.app-main-79:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.m20_firebase.app-merged_res-77:/layout_first_fragment.xml.flat",
+        "source": "com.example.m20_firebase.app-main-79:/layout/first_fragment.xml"
+    },
+    {
+        "merged": "com.example.m20_firebase.app-merged_res-77:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.m20_firebase.app-main-79:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.m20_firebase.app-merged_res-77:/drawable_marker.png.flat",
+        "source": "com.example.m20_firebase.app-main-79:/drawable/marker.png"
+    },
+    {
+        "merged": "com.example.m20_firebase.app-merged_res-77:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.m20_firebase.app-main-79:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.m20_firebase.app-merged_res-77:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.m20_firebase.app-main-79:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.m20_firebase.app-merged_res-77:/drawable_my_location.png.flat",
+        "source": "com.example.m20_firebase.app-main-79:/drawable/my_location.png"
+    },
+    {
+        "merged": "com.example.m20_firebase.app-merged_res-77:/layout_activity_main.xml.flat",
+        "source": "com.example.m20_firebase.app-main-79:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.m20_firebase.app-merged_res-77:/drawable_baseline_notifications_paused_24.xml.flat",
+        "source": "com.example.m20_firebase.app-main-79:/drawable/baseline_notifications_paused_24.xml"
+    },
+    {
+        "merged": "com.example.m20_firebase.app-merged_res-77:/layout_second_fragment.xml.flat",
+        "source": "com.example.m20_firebase.app-main-79:/layout/second_fragment.xml"
+    },
+    {
+        "merged": "com.example.m20_firebase.app-merged_res-77:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.m20_firebase.app-main-79:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.m20_firebase.app-merged_res-77:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.m20_firebase.app-main-79:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.m20_firebase.app-merged_res-77:/drawable_baseline_zoom_out_24.xml.flat",
+        "source": "com.example.m20_firebase.app-main-79:/drawable/baseline_zoom_out_24.xml"
+    },
+    {
+        "merged": "com.example.m20_firebase.app-merged_res-77:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.m20_firebase.app-main-79:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.m20_firebase.app-merged_res-77:/navigation_nav_graph.xml.flat",
+        "source": "com.example.m20_firebase.app-main-79:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.m20_firebase.app-merged_res-77:/drawable_baseline_near_me_24.xml.flat",
+        "source": "com.example.m20_firebase.app-main-79:/drawable/baseline_near_me_24.xml"
+    },
+    {
+        "merged": "com.example.m20_firebase.app-merged_res-77:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.m20_firebase.app-main-79:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.m20_firebase.app-merged_res-77:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.m20_firebase.app-main-79:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.m20_firebase.app-merged_res-77:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.m20_firebase.app-main-79:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.m20_firebase.app-merged_res-77:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.m20_firebase.app-main-79:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.m20_firebase.app-merged_res-77:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.m20_firebase.app-main-79:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.m20_firebase.app-merged_res-77:/drawable_baseline_zoom_in_24.xml.flat",
+        "source": "com.example.m20_firebase.app-main-79:/drawable/baseline_zoom_in_24.xml"
+    }
+]
